@@ -7,18 +7,18 @@ body{
   font-size: 200%;
   }
 header{
-  color: black;
+  color: blue;
   text-shadow: 5px 5px 3px #CD853F;
 }
 section{
-  background-color: #D2B48C;
+  background-color: pink;
   width: 300px;
   margin:auto;
   border-radius: 30px;
   box-shadow: 5px 5px 5px #CD853F;
 }
 footer{
-    color: black;
+    color: red;
     text-shadow: 5px 5px 3px  #CD853F;
       }
 
