@@ -4,5 +4,10 @@ body{
   background-color: #FFDEAD;
   font-family:Gupter;
   text-align:center;
+  font-size: 200%;
+}
+heaer{
+  color: black;
+  text-shadow: 5px 5px 5px #CD853F;
 }
 
