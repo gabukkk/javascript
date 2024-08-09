@@ -17,6 +17,9 @@ section{
   border-radius: 30px;
   box-shadow: 5px 5px 5px brown;
 }
+img{
+  border-radius:50%;
+  width: 200px;
 footer{
     color: black;
     text-shadow: 5px 5px 3px  brown;
